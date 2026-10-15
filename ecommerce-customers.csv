@@ -1,0 +1,151 @@
+customer_id,customer_name,province,signup_date
+C0001,Ana Aquino,Cebu,2025-03-08
+C0002,Rose Reyes,Batangas,2025-02-28
+C0003,Jose Dela Cruz,Rizal,2025-09-06
+C0004,Liza Navarro,Laguna,2025-01-18
+C0005,Nina Villanueva,Metro Manila,2025-07-23
+C0006,Mark Tan,Pampanga,2025-09-09
+C0007,Paulo Ramos,Batangas,2025-12-06
+C0008,Ella Flores,Metro Manila,2025-06-26
+C0009,Joy Dela Cruz,Pampanga,2025-06-11
+C0010,Mark Navarro,Davao del Sur,2025-09-22
+C0011,Cris Aquino,Iloilo,2025-03-17
+C0012,Carlo Garcia,Cebu,2025-11-21
+C0013,Nina Sy,Rizal,2025-05-02
+C0014,Juan Santos,Metro Manila,2025-07-05
+C0015,Gab Sy,Davao del Sur,2025-05-25
+C0016,Juan Torres,Cavite,2025-03-23
+C0017,Ron Aquino,Metro Manila,2025-03-16
+C0018,Mae Sy,Cavite,2025-06-17
+C0019,Liza Aquino,Batangas,2025-11-14
+C0020,Tin Ramos,Iloilo,2025-02-16
+C0021,Juan Garcia,Pampanga,2025-10-24
+C0022,Cris Navarro,Davao del Sur,2025-02-18
+C0023,Ron Dela Cruz,Cavite,2025-05-25
+C0024,Mark Sy,Metro Manila,2025-09-14
+C0025,Jay Chua,Batangas,2025-05-17
+C0026,Ella Torres,Metro Manila,2025-01-25
+C0027,Peter Santos,Metro Manila,2025-03-03
+C0028,Rose Flores,Bulacan,2025-05-19
+C0029,Paulo Torres,Pampanga,2025-07-24
+C0030,Tin Torres,Metro Manila,2025-08-01
+C0031,Leo Ramos,Cavite,2025-12-06
+C0032,Leo Ramos,Rizal,2025-02-12
+C0033,Mae Tan,Cavite,2025-03-18
+C0034,Joy Navarro,Davao del Sur,2025-03-01
+C0035,Peter Tan,Cavite,2025-03-24
+C0036,Ella Flores,Iloilo,2025-06-25
+C0037,Liza Torres,Metro Manila,2025-08-28
+C0038,Leo Sy,Metro Manila,2025-11-27
+C0039,Rose Ramos,Metro Manila,2025-11-23
+C0040,Ron Reyes,Metro Manila,2025-05-24
+C0041,Mark Garcia,Metro Manila,2025-11-14
+C0042,Peter Torres,Rizal,2025-08-02
+C0043,Juan Villanueva,Laguna,2025-02-02
+C0044,Mae Aquino,Laguna,2025-07-16
+C0045,Ana Tan,Metro Manila,2025-06-15
+C0046,Rose Navarro,Metro Manila,2025-07-07
+C0047,Joy Navarro,Cebu,2025-07-07
+C0048,Jay Garcia,Davao del Sur,2025-05-20
+C0049,Ron Ramos,Metro Manila,2025-06-26
+C0050,Cris Lim,Iloilo,2025-07-26
+C0051,Mark Mendoza,Metro Manila,2025-10-18
+C0052,Peter Dela Cruz,Pampanga,2025-08-22
+C0053,Cris Lim,Cavite,2025-12-06
+C0054,Liza Santos,Metro Manila,2025-02-06
+C0055,Cris Dela Cruz,Davao del Sur,2025-09-24
+C0056,Jose Ramos,Cavite,2025-06-24
+C0057,Juan Tan,Metro Manila,2025-05-07
+C0058,Mae Reyes,Bulacan,2025-11-17
+C0059,Mae Santos,Iloilo,2025-03-01
+C0060,Ron Santos,Pampanga,2025-11-16
+C0061,Maria Villanueva,Pampanga,2025-02-09
+C0062,Jose Garcia,Pampanga,2025-02-17
+C0063,Carlo Dela Cruz,Iloilo,2025-06-03
+C0064,Mae Dela Cruz,Metro Manila,2025-01-22
+C0065,Jay Chua,Laguna,2025-10-08
+C0066,Maria Reyes,Cavite,2025-03-05
+C0067,Ana Tan,Metro Manila,2025-07-14
+C0068,Ella Chua,Iloilo,2025-02-28
+C0069,Ana Dela Cruz,Pampanga,2025-04-18
+C0070,Carlo Flores,Metro Manila,2025-06-05
+C0071,Rose Flores,Cavite,2025-02-06
+C0072,Gab Chua,Rizal,2025-05-23
+C0073,Peter Ramos,Cavite,2025-12-16
+C0074,Rose Torres,Laguna,2025-07-16
+C0075,Peter Torres,Cebu,2025-10-10
+C0076,Juan Aquino,Pampanga,2025-05-13
+C0077,Ron Tan,Iloilo,2025-03-11
+C0078,Cris Reyes,Metro Manila,2025-03-25
+C0079,Rose Flores,Metro Manila,2025-05-17
+C0080,Peter Garcia,Metro Manila,2025-03-19
+C0081,Cris Reyes,Cebu,2025-01-25
+C0082,Jay Torres,Cavite,2025-12-01
+C0083,Gab Tan,Cebu,2025-01-25
+C0084,Leo Flores,Metro Manila,2025-07-09
+C0085,Tin Garcia,Metro Manila,2025-05-01
+C0086,Mark Aquino,Davao del Sur,2025-09-04
+C0087,Jose Flores,Cavite,2025-08-26
+C0088,Carlo Garcia,Cavite,2025-02-08
+C0089,Carlo Sy,Rizal,2025-11-04
+C0090,Paulo Sy,Metro Manila,2025-02-16
+C0091,Ron Chua,Pampanga,2025-06-23
+C0092,Maria Garcia,Metro Manila,2025-07-10
+C0093,Rose Santos,Bulacan,2025-02-23
+C0094,Leo Santos,Cavite,2025-04-11
+C0095,Gab Mendoza,Metro Manila,2025-11-18
+C0096,Mark Aquino,Pampanga,2025-05-08
+C0097,Juan Flores,Bulacan,2025-10-04
+C0098,Cris Ramos,Metro Manila,2025-03-04
+C0099,Ron Ramos,Davao del Sur,2025-09-03
+C0100,Jay Villanueva,Metro Manila,2025-03-15
+C0101,Nina Tan,Metro Manila,2025-10-21
+C0102,Leo Chua,Pampanga,2025-04-23
+C0103,Peter Navarro,Cebu,2025-06-19
+C0104,Nina Flores,Davao del Sur,2025-09-14
+C0105,Ana Santos,Metro Manila,2025-12-13
+C0106,Juan Lim,Davao del Sur,2025-01-16
+C0107,Tin Aquino,Metro Manila,2025-05-27
+C0108,Juan Ramos,Metro Manila,2025-09-21
+C0109,Tin Ramos,Iloilo,2025-03-15
+C0110,Maria Dela Cruz,Cavite,2025-10-07
+C0111,Liza Villanueva,Metro Manila,2025-03-18
+C0112,Nina Navarro,Metro Manila,2025-04-24
+C0113,Paulo Sy,Metro Manila,2025-12-10
+C0114,Ana Chua,Pampanga,2025-06-17
+C0115,Carlo Lim,Iloilo,2025-08-25
+C0116,Nina Reyes,Laguna,2025-09-17
+C0117,Paulo Navarro,Iloilo,2025-10-15
+C0118,Ron Sy,Batangas,2025-05-18
+C0119,Mae Tan,Metro Manila,2025-12-28
+C0120,Cris Garcia,Batangas,2025-07-18
+C0121,Liza Torres,Iloilo,2025-07-04
+C0122,Gab Aquino,Cebu,2025-07-23
+C0123,Jose Villanueva,Pampanga,2025-05-24
+C0124,Paulo Santos,Batangas,2025-10-13
+C0125,Tin Navarro,Metro Manila,2025-06-07
+C0126,Jose Chua,Metro Manila,2025-01-22
+C0127,Jose Chua,Davao del Sur,2025-04-04
+C0128,Nina Navarro,Rizal,2025-11-07
+C0129,Joy Mendoza,Pampanga,2025-02-22
+C0130,Ana Mendoza,Metro Manila,2025-11-25
+C0131,Gab Aquino,Iloilo,2025-12-25
+C0132,Ella Lim,Laguna,2025-04-16
+C0133,Joy Dela Cruz,Davao del Sur,2025-07-16
+C0134,Ron Tan,Cebu,2025-10-15
+C0135,Joy Ramos,Rizal,2025-03-23
+C0136,Mark Dela Cruz,Metro Manila,2025-09-14
+C0137,Leo Ramos,Pampanga,2025-11-22
+C0138,Nina Mendoza,Laguna,2025-05-17
+C0139,Cris Ramos,Cebu,2025-10-09
+C0140,Leo Flores,Cavite,2025-09-01
+C0141,Ron Dela Cruz,Pampanga,2025-12-27
+C0142,Gab Chua,Pampanga,2025-08-07
+C0143,Peter Navarro,Cavite,2025-11-17
+C0144,Rose Reyes,Cebu,2025-08-16
+C0145,Mark Garcia,Davao del Sur,2025-09-05
+C0146,Paulo Reyes,Batangas,2025-01-03
+C0147,Tin Navarro,Iloilo,2025-11-13
+C0148,Jay Torres,Pampanga,2025-11-22
+C0149,Jay Chua,Davao del Sur,2025-03-19
+C0150,Juan Reyes,Cavite,2025-02-24

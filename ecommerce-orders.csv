@@ -1,0 +1,364 @@
+order_id,customer_id,order_date,product,category,qty,unit_price
+O5001,C0090,2026-01-06,Digital Coffee Scale,Accessories,1,750
+O5002,C0150,2026-01-14,Gooseneck Kettle 1L,Equipment,3,1250
+O5003,C0059,2026-01-19,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5004,C0028,2026-01-25,Digital Coffee Scale,Accessories,3,750
+O5005,C0134,2026-01-03,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5006,C0040,2026-01-25,Pour-Over Dripper V60,Equipment,1,425
+O5007,C0044,2026-01-17,French Press 350ml,Equipment,3,549
+O5008,C0051,2026-01-05,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5009,C0086,2026-01-11,Insulated Tumbler 500ml,Accessories,3,680
+O5010,C0032,2026-01-05,Insulated Tumbler 500ml,Accessories,2,680
+O5011,C0060,2026-01-26,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5012,C0113,2026-01-26,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5013,C0026,2026-01-24,Insulated Tumbler 500ml,Accessories,2,680
+O5014,C0011,2026-01-11,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5015,C0009,2026-01-23,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5016,C0017,2026-01-20,Barako Roast 500g,Coffee Beans,1,420
+O5017,C0080,2026-01-24,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5018,C0030,2026-01-07,Paper Filters 100pk,Accessories,2,180
+O5019,C0022,2026-01-25,Barako Roast 500g,Coffee Beans,3,420
+O5020,C0007,2026-01-17,Manual Coffee Grinder,Equipment,2,899
+O5021,C0082,2026-01-17,French Press 350ml,Equipment,1,549
+O5022,C0028,2026-01-01,Manual Coffee Grinder,Equipment,2,899
+O5023,C0020,2026-01-10,Digital Coffee Scale,Accessories,2,750
+O5024,C0028,2026-01-02,Paper Filters 100pk,Accessories,1,180
+O5025,C0057,2026-01-22,Pour-Over Dripper V60,Equipment,2,425
+O5026,C0035,2026-01-24,Pour-Over Dripper V60,Equipment,3,425
+O5027,C0092,2026-01-27,Gooseneck Kettle 1L,Equipment,3,1250
+O5028,C0147,2026-01-26,Paper Filters 100pk,Accessories,3,180
+O5029,C0122,2026-01-06,Pour-Over Dripper V60,Equipment,3,425
+O5030,C0139,2026-01-14,Paper Filters 100pk,Accessories,2,180
+O5031,C0035,2026-01-09,French Press 350ml,Equipment,1,549
+O5032,C0025,2026-01-14,Digital Coffee Scale,Accessories,3,750
+O5033,C0039,2026-01-16,Pour-Over Dripper V60,Equipment,1,425
+O5034,C0039,2026-01-19,Paper Filters 100pk,Accessories,1,180
+O5035,C0031,2026-01-28,French Press 350ml,Equipment,1,549
+O5036,C0029,2026-01-25,Barako Roast 500g,Coffee Beans,2,420
+O5037,C0050,2026-01-18,Paper Filters 100pk,Accessories,2,180
+O5038,C0016,2026-01-04,Insulated Tumbler 500ml,Accessories,2,680
+O5039,C0149,2026-01-26,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5040,C0011,2026-01-08,French Press 350ml,Equipment,3,549
+O5041,C0059,2026-01-24,Barako Roast 500g,Coffee Beans,1,420
+O5042,C0031,2026-01-03,Insulated Tumbler 500ml,Accessories,2,680
+O5043,C0012,2026-01-04,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5044,C0044,2026-01-11,Paper Filters 100pk,Accessories,3,180
+O5045,C0045,2026-01-17,French Press 350ml,Equipment,3,549
+O5046,C0038,2026-01-19,Paper Filters 100pk,Accessories,1,180
+O5047,C0005,2026-01-13,Paper Filters 100pk,Accessories,1,180
+O5048,C0041,2026-01-05,Pour-Over Dripper V60,Equipment,1,425
+O5049,C0003,2026-01-12,Manual Coffee Grinder,Equipment,3,899
+O5050,C0132,2026-01-16,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5051,C0109,2026-01-22,Manual Coffee Grinder,Equipment,2,899
+O5052,C0017,2026-01-21,French Press 350ml,Equipment,2,549
+O5053,C0040,2026-01-01,Pour-Over Dripper V60,Equipment,1,425
+O5054,C0093,2026-01-11,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5055,C0002,2026-01-07,Gooseneck Kettle 1L,Equipment,2,1250
+O5056,C0006,2026-01-02,Pour-Over Dripper V60,Equipment,2,425
+O5057,C0015,2026-01-27,Barako Roast 500g,Coffee Beans,2,420
+O5058,C0030,2026-01-06,Gooseneck Kettle 1L,Equipment,3,1250
+O5059,C0113,2026-01-14,Manual Coffee Grinder,Equipment,1,899
+O5060,C0002,2026-01-21,French Press 350ml,Equipment,3,549
+O5061,C0023,2026-02-16,Barako Roast 500g,Coffee Beans,3,420
+O5062,C0088,2026-02-01,Barako Roast 500g,Coffee Beans,1,420
+O5063,C0006,2026-02-12,Insulated Tumbler 500ml,Accessories,1,680
+O5064,C0127,2026-02-10,Digital Coffee Scale,Accessories,3,750
+O5065,C0049,2026-02-18,Barako Roast 500g,Coffee Beans,1,420
+O5066,C0050,2026-02-18,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5067,C0040,2026-02-05,Barako Roast 500g,Coffee Beans,2,420
+O5068,C0036,2026-02-21,Pour-Over Dripper V60,Equipment,1,425
+O5069,C0010,2026-02-15,Barako Roast 500g,Coffee Beans,1,420
+O5070,C0046,2026-02-10,Manual Coffee Grinder,Equipment,3,899
+O5071,C0102,2026-02-07,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5072,C0004,2026-02-07,Insulated Tumbler 500ml,Accessories,2,680
+O5073,C0034,2026-02-03,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5074,C0048,2026-02-12,Pour-Over Dripper V60,Equipment,2,425
+O5075,C0054,2026-02-24,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5076,C0021,2026-02-14,French Press 350ml,Equipment,3,549
+O5077,C0035,2026-02-17,French Press 350ml,Equipment,1,549
+O5078,C0048,2026-02-09,French Press 350ml,Equipment,1,549
+O5079,C0053,2026-02-21,Paper Filters 100pk,Accessories,3,180
+O5080,C0020,2026-02-22,Gooseneck Kettle 1L,Equipment,3,1250
+O5081,C0022,2026-02-15,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5082,C0001,2026-02-07,Manual Coffee Grinder,Equipment,2,899
+O5083,C0134,2026-02-17,French Press 350ml,Equipment,2,549
+O5084,C0038,2026-02-10,Barako Roast 500g,Coffee Beans,1,420
+O5085,C0035,2026-02-06,Manual Coffee Grinder,Equipment,2,899
+O5086,C0055,2026-02-26,Insulated Tumbler 500ml,Accessories,3,680
+O5087,C0010,2026-02-06,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5088,C0041,2026-02-10,Paper Filters 100pk,Accessories,2,180
+O5089,C0015,2026-02-07,Paper Filters 100pk,Accessories,1,180
+O5090,C0004,2026-02-05,Pour-Over Dripper V60,Equipment,3,425
+O5091,C0046,2026-02-02,Pour-Over Dripper V60,Equipment,1,425
+O5092,C0004,2026-02-02,Insulated Tumbler 500ml,Accessories,3,680
+O5093,C0008,2026-02-13,Manual Coffee Grinder,Equipment,1,899
+O5094,C0039,2026-02-14,Insulated Tumbler 500ml,Accessories,3,680
+O5095,C0098,2026-02-06,Pour-Over Dripper V60,Equipment,3,425
+O5096,C0121,2026-02-16,Digital Coffee Scale,Accessories,1,750
+O5097,C0023,2026-02-22,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5098,C0011,2026-02-20,Manual Coffee Grinder,Equipment,2,899
+O5099,C0020,2026-02-13,Barako Roast 500g,Coffee Beans,2,420
+O5100,C0030,2026-02-28,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5101,C0043,2026-02-12,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5102,C0037,2026-02-03,Barako Roast 500g,Coffee Beans,3,420
+O5103,C0006,2026-02-19,Gooseneck Kettle 1L,Equipment,2,1250
+O5104,C0022,2026-02-01,French Press 350ml,Equipment,2,549
+O5105,C0028,2026-02-15,Gooseneck Kettle 1L,Equipment,2,1250
+O5106,C0011,2026-02-07,French Press 350ml,Equipment,2,549
+O5107,C0024,2026-02-05,Gooseneck Kettle 1L,Equipment,1,1250
+O5108,C0011,2026-02-08,Insulated Tumbler 500ml,Accessories,3,680
+O5109,C0031,2026-02-01,Insulated Tumbler 500ml,Accessories,2,680
+O5110,C0093,2026-02-11,French Press 350ml,Equipment,1,549
+O5111,C0011,2026-02-21,French Press 350ml,Equipment,3,549
+O5112,C0056,2026-02-01,Digital Coffee Scale,Accessories,3,750
+O5113,C0063,2026-02-28,Paper Filters 100pk,Accessories,1,180
+O5114,C0100,2026-02-03,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5115,C0024,2026-02-15,Manual Coffee Grinder,Equipment,3,899
+O5116,C0091,2026-03-06,French Press 350ml,Equipment,2,549
+O5117,C0008,2026-03-06,Digital Coffee Scale,Accessories,2,750
+O5118,C0086,2026-03-23,Paper Filters 100pk,Accessories,1,180
+O5119,C0042,2026-03-23,Paper Filters 100pk,Accessories,1,180
+O5120,C0132,2026-03-24,Barako Roast 500g,Coffee Beans,3,420
+O5121,C0087,2026-03-10,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5122,C0055,2026-03-16,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5123,C0003,2026-03-21,Gooseneck Kettle 1L,Equipment,3,1250
+O5124,C0011,2026-03-11,French Press 350ml,Equipment,2,549
+O5125,C0074,2026-03-01,Gooseneck Kettle 1L,Equipment,1,1250
+O5126,C0046,2026-03-04,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5127,C0104,2026-03-05,Paper Filters 100pk,Accessories,1,180
+O5128,C0011,2026-03-08,French Press 350ml,Equipment,3,549
+O5129,C0021,2026-03-05,Pour-Over Dripper V60,Equipment,3,425
+O5130,C0042,2026-03-01,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5131,C0034,2026-03-06,Barako Roast 500g,Coffee Beans,1,420
+O5132,C0003,2026-03-17,Gooseneck Kettle 1L,Equipment,3,1250
+O5133,C0058,2026-03-18,Insulated Tumbler 500ml,Accessories,2,680
+O5134,C0018,2026-03-05,Digital Coffee Scale,Accessories,2,750
+O5135,C0060,2026-03-13,Digital Coffee Scale,Accessories,3,750
+O5136,C0059,2026-03-18,Digital Coffee Scale,Accessories,1,750
+O5137,C0009,2026-03-21,Manual Coffee Grinder,Equipment,2,899
+O5138,C0056,2026-03-14,Manual Coffee Grinder,Equipment,2,899
+O5139,C0053,2026-03-25,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5140,C0008,2026-03-02,Insulated Tumbler 500ml,Accessories,2,680
+O5141,C0008,2026-03-26,Barako Roast 500g,Coffee Beans,3,420
+O5142,C0055,2026-03-26,French Press 350ml,Equipment,2,549
+O5143,C0002,2026-03-07,Insulated Tumbler 500ml,Accessories,3,680
+O5144,C0026,2026-03-01,Pour-Over Dripper V60,Equipment,1,425
+O5145,C0035,2026-03-15,French Press 350ml,Equipment,2,549
+O5146,C0124,2026-03-11,Pour-Over Dripper V60,Equipment,1,425
+O5147,C0034,2026-03-06,Manual Coffee Grinder,Equipment,1,899
+O5148,C0027,2026-03-26,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5149,C0002,2026-03-26,Barako Roast 500g,Coffee Beans,3,420
+O5150,C0053,2026-03-13,Digital Coffee Scale,Accessories,3,750
+O5151,C0132,2026-03-28,Pour-Over Dripper V60,Equipment,1,425
+O5152,C0051,2026-03-22,Pour-Over Dripper V60,Equipment,1,425
+O5153,C0024,2026-03-27,Digital Coffee Scale,Accessories,2,750
+O5154,C0027,2026-03-27,Paper Filters 100pk,Accessories,3,180
+O5155,C0007,2026-03-04,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5156,C0017,2026-03-19,Barako Roast 500g,Coffee Beans,3,420
+O5157,C0090,2026-03-24,Paper Filters 100pk,Accessories,2,180
+O5158,C0034,2026-03-21,French Press 350ml,Equipment,3,549
+O5159,C0087,2026-03-21,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5160,C0014,2026-03-11,Pour-Over Dripper V60,Equipment,1,425
+O5161,C0054,2026-03-25,French Press 350ml,Equipment,2,549
+O5162,C0008,2026-03-02,Manual Coffee Grinder,Equipment,3,899
+O5163,C0055,2026-03-12,Insulated Tumbler 500ml,Accessories,2,680
+O5164,C0058,2026-03-19,Paper Filters 100pk,Accessories,2,180
+O5165,C0026,2026-03-28,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5166,C0106,2026-03-23,Pour-Over Dripper V60,Equipment,1,425
+O5167,C0058,2026-03-04,French Press 350ml,Equipment,1,549
+O5168,C0114,2026-03-03,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5169,C0015,2026-03-21,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5170,C0031,2026-03-04,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5171,C0013,2026-03-21,Pour-Over Dripper V60,Equipment,3,425
+O5172,C0031,2026-03-21,Digital Coffee Scale,Accessories,1,750
+O5173,C0055,2026-03-06,Manual Coffee Grinder,Equipment,1,899
+O5174,C0037,2026-04-20,Barako Roast 500g,Coffee Beans,3,420
+O5175,C0057,2026-04-10,Insulated Tumbler 500ml,Accessories,3,680
+O5176,C0017,2026-04-11,Barako Roast 500g,Coffee Beans,2,420
+O5177,C0012,2026-04-16,Gooseneck Kettle 1L,Equipment,1,1250
+O5178,C0064,2026-04-08,Pour-Over Dripper V60,Equipment,2,425
+O5179,C0024,2026-04-20,Barako Roast 500g,Coffee Beans,3,420
+O5180,C0025,2026-04-01,French Press 350ml,Equipment,2,549
+O5181,C0066,2026-04-03,Gooseneck Kettle 1L,Equipment,1,1250
+O5182,C0092,2026-04-08,Pour-Over Dripper V60,Equipment,1,425
+O5183,C0047,2026-04-27,Gooseneck Kettle 1L,Equipment,1,1250
+O5184,C0008,2026-04-23,Digital Coffee Scale,Accessories,1,750
+O5185,C0017,2026-04-06,Manual Coffee Grinder,Equipment,3,899
+O5186,C0020,2026-04-08,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5187,C0046,2026-04-16,Insulated Tumbler 500ml,Accessories,2,680
+O5188,C0006,2026-04-19,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5189,C0075,2026-04-27,Insulated Tumbler 500ml,Accessories,3,680
+O5190,C0010,2026-04-12,Gooseneck Kettle 1L,Equipment,3,1250
+O5191,C0087,2026-04-17,French Press 350ml,Equipment,3,549
+O5192,C0031,2026-04-04,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5193,C0044,2026-04-12,French Press 350ml,Equipment,2,549
+O5194,C0099,2026-04-27,Gooseneck Kettle 1L,Equipment,3,1250
+O5195,C0051,2026-04-23,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5196,C0081,2026-04-11,Manual Coffee Grinder,Equipment,3,899
+O5197,C0062,2026-04-07,Pour-Over Dripper V60,Equipment,3,425
+O5198,C0020,2026-04-22,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5199,C0059,2026-04-02,Manual Coffee Grinder,Equipment,2,899
+O5200,C0109,2026-04-24,Gooseneck Kettle 1L,Equipment,2,1250
+O5201,C0140,2026-04-23,French Press 350ml,Equipment,1,549
+O5202,C0018,2026-04-27,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5203,C0048,2026-04-15,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5204,C0011,2026-04-12,Digital Coffee Scale,Accessories,2,750
+O5205,C0064,2026-04-04,Insulated Tumbler 500ml,Accessories,1,680
+O5206,C0054,2026-04-01,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5207,C0004,2026-04-16,Paper Filters 100pk,Accessories,3,180
+O5208,C0058,2026-04-13,French Press 350ml,Equipment,2,549
+O5209,C0064,2026-04-04,Manual Coffee Grinder,Equipment,3,899
+O5210,C0134,2026-04-19,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5211,C0016,2026-04-01,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5212,C0007,2026-04-07,French Press 350ml,Equipment,1,549
+O5213,C0144,2026-04-27,Gooseneck Kettle 1L,Equipment,3,1250
+O5214,C0027,2026-04-22,Pour-Over Dripper V60,Equipment,3,425
+O5215,C0098,2026-04-16,French Press 350ml,Equipment,3,549
+O5216,C0042,2026-04-06,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5217,C0021,2026-04-02,Gooseneck Kettle 1L,Equipment,1,1250
+O5218,C0055,2026-04-19,Paper Filters 100pk,Accessories,2,180
+O5219,C0029,2026-04-18,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5220,C0031,2026-04-01,Gooseneck Kettle 1L,Equipment,2,1250
+O5221,C0048,2026-04-22,Barako Roast 500g,Coffee Beans,2,420
+O5222,C0145,2026-04-01,French Press 350ml,Equipment,1,549
+O5223,C0059,2026-04-13,Pour-Over Dripper V60,Equipment,2,425
+O5224,C0035,2026-04-26,Barako Roast 500g,Coffee Beans,3,420
+O5225,C0090,2026-04-15,French Press 350ml,Equipment,2,549
+O5226,C0029,2026-05-04,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5227,C0109,2026-05-13,Barako Roast 500g,Coffee Beans,2,420
+O5228,C0045,2026-05-06,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5229,C0034,2026-05-22,Manual Coffee Grinder,Equipment,1,899
+O5230,C0050,2026-05-19,Insulated Tumbler 500ml,Accessories,1,680
+O5231,C0053,2026-05-17,Insulated Tumbler 500ml,Accessories,1,680
+O5232,C0001,2026-05-11,Barako Roast 500g,Coffee Beans,2,420
+O5233,C0034,2026-05-17,French Press 350ml,Equipment,1,549
+O5234,C0026,2026-05-18,Manual Coffee Grinder,Equipment,1,899
+O5235,C0047,2026-05-05,French Press 350ml,Equipment,1,549
+O5236,C0013,2026-05-06,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5237,C0129,2026-05-08,Pour-Over Dripper V60,Equipment,2,425
+O5238,C0041,2026-05-02,Gooseneck Kettle 1L,Equipment,1,1250
+O5239,C0047,2026-05-06,Manual Coffee Grinder,Equipment,1,899
+O5240,C0134,2026-05-01,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5241,C0101,2026-05-17,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5242,C0029,2026-05-10,Insulated Tumbler 500ml,Accessories,1,680
+O5243,C0021,2026-05-01,Gooseneck Kettle 1L,Equipment,2,1250
+O5244,C0005,2026-05-02,French Press 350ml,Equipment,3,549
+O5245,C0040,2026-05-27,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5246,C0019,2026-05-01,Digital Coffee Scale,Accessories,3,750
+O5247,C0021,2026-05-15,Gooseneck Kettle 1L,Equipment,2,1250
+O5248,C0053,2026-05-23,French Press 350ml,Equipment,1,549
+O5249,C0079,2026-05-23,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5250,C0043,2026-05-07,Gooseneck Kettle 1L,Equipment,3,1250
+O5251,C0015,2026-05-13,Digital Coffee Scale,Accessories,3,750
+O5252,C0039,2026-05-26,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5253,C0022,2026-05-06,Gooseneck Kettle 1L,Equipment,2,1250
+O5254,C0088,2026-05-03,Barako Roast 500g,Coffee Beans,1,420
+O5255,C0011,2026-05-01,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5256,C0133,2026-05-13,Insulated Tumbler 500ml,Accessories,2,680
+O5257,C0024,2026-05-20,Pour-Over Dripper V60,Equipment,3,425
+O5258,C0027,2026-05-26,Barako Roast 500g,Coffee Beans,3,420
+O5259,C0128,2026-05-16,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5260,C0043,2026-05-08,Manual Coffee Grinder,Equipment,3,899
+O5261,C0041,2026-05-22,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5262,C0080,2026-05-27,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5263,C0038,2026-05-12,Gooseneck Kettle 1L,Equipment,3,1250
+O5264,C0009,2026-05-12,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5265,C0007,2026-05-14,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5266,C0049,2026-05-03,Sagada Blend Beans 250g,Coffee Beans,1,350
+O5267,C0025,2026-05-18,Barako Roast 500g,Coffee Beans,1,420
+O5268,C0020,2026-05-14,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5269,C0023,2026-05-24,Manual Coffee Grinder,Equipment,3,899
+O5270,C0036,2026-05-09,Manual Coffee Grinder,Equipment,1,899
+O5271,C0133,2026-05-11,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5272,C0081,2026-05-01,French Press 350ml,Equipment,2,549
+O5273,C0010,2026-05-03,Manual Coffee Grinder,Equipment,2,899
+O5274,C0049,2026-05-24,French Press 350ml,Equipment,3,549
+O5275,C0015,2026-05-09,Gooseneck Kettle 1L,Equipment,3,1250
+O5276,C0051,2026-05-18,Manual Coffee Grinder,Equipment,2,899
+O5277,C0048,2026-05-18,French Press 350ml,Equipment,2,549
+O5278,C0143,2026-05-14,Insulated Tumbler 500ml,Accessories,2,680
+O5279,C0024,2026-05-28,French Press 350ml,Equipment,2,549
+O5280,C0005,2026-05-19,Gooseneck Kettle 1L,Equipment,3,1250
+O5281,C0094,2026-05-16,Insulated Tumbler 500ml,Accessories,3,680
+O5282,C0134,2026-05-22,Barako Roast 500g,Coffee Beans,2,420
+O5283,C0149,2026-05-02,Digital Coffee Scale,Accessories,1,750
+O5284,C0063,2026-05-17,Pour-Over Dripper V60,Equipment,1,425
+O5285,C0057,2026-05-15,Barako Roast 500g,Coffee Beans,1,420
+O5286,C0026,2026-05-24,Manual Coffee Grinder,Equipment,2,899
+O5287,C0009,2026-05-06,Manual Coffee Grinder,Equipment,3,899
+O5288,C0019,2026-05-16,Digital Coffee Scale,Accessories,1,750
+O5289,C0113,2026-05-08,Paper Filters 100pk,Accessories,1,180
+O5290,C0053,2026-05-10,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5291,C0019,2026-05-27,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5292,C0027,2026-06-09,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5293,C0028,2026-06-01,Manual Coffee Grinder,Equipment,1,899
+O5294,C0014,2026-06-26,French Press 350ml,Equipment,3,549
+O5295,C0007,2026-06-15,Pour-Over Dripper V60,Equipment,3,425
+O5296,C0044,2026-06-03,French Press 350ml,Equipment,1,549
+O5297,C0075,2026-06-04,Digital Coffee Scale,Accessories,1,750
+O5298,C0071,2026-06-25,Manual Coffee Grinder,Equipment,1,899
+O5299,C0063,2026-06-03,Gooseneck Kettle 1L,Equipment,3,1250
+O5300,C0012,2026-06-05,Manual Coffee Grinder,Equipment,1,899
+O5301,C0005,2026-06-13,Pour-Over Dripper V60,Equipment,1,425
+O5302,C0050,2026-06-14,French Press 350ml,Equipment,1,549
+O5303,C0033,2026-06-08,Digital Coffee Scale,Accessories,1,750
+O5304,C0017,2026-06-25,Sagada Blend Beans 250g,Coffee Beans,2,350
+O5305,C0038,2026-06-04,Barako Roast 500g,Coffee Beans,2,420
+O5306,C0132,2026-06-01,Gooseneck Kettle 1L,Equipment,1,1250
+O5307,C0045,2026-06-04,Benguet Arabica Beans 250g,Coffee Beans,3,380
+O5308,C0040,2026-06-19,Pour-Over Dripper V60,Equipment,2,425
+O5309,C0133,2026-06-03,Pour-Over Dripper V60,Equipment,1,425
+O5310,C0048,2026-06-03,Insulated Tumbler 500ml,Accessories,1,680
+O5311,C0010,2026-06-25,Manual Coffee Grinder,Equipment,1,899
+O5312,C0027,2026-06-07,Paper Filters 100pk,Accessories,1,180
+O5313,C0103,2026-06-18,French Press 350ml,Equipment,2,549
+O5314,C0001,2026-06-19,Gooseneck Kettle 1L,Equipment,2,1250
+O5315,C0005,2026-06-20,Barako Roast 500g,Coffee Beans,2,420
+O5316,C0018,2026-06-11,Digital Coffee Scale,Accessories,1,750
+O5317,C0026,2026-06-16,Insulated Tumbler 500ml,Accessories,2,680
+O5318,C0105,2026-06-26,Barako Roast 500g,Coffee Beans,3,420
+O5319,C0082,2026-06-20,Insulated Tumbler 500ml,Accessories,2,680
+O5320,C0031,2026-06-05,Gooseneck Kettle 1L,Equipment,2,1250
+O5321,C0019,2026-06-01,French Press 350ml,Equipment,1,549
+O5322,C0035,2026-06-18,Manual Coffee Grinder,Equipment,3,899
+O5323,C0033,2026-06-06,Barako Roast 500g,Coffee Beans,3,420
+O5324,C0005,2026-06-03,Manual Coffee Grinder,Equipment,1,899
+O5325,C0060,2026-06-09,Digital Coffee Scale,Accessories,2,750
+O5326,C0045,2026-06-24,Sagada Blend Beans 250g,Coffee Beans,3,350
+O5327,C0129,2026-06-06,Paper Filters 100pk,Accessories,1,180
+O5328,C0145,2026-06-03,Pour-Over Dripper V60,Equipment,3,425
+O5329,C0004,2026-06-07,Manual Coffee Grinder,Equipment,3,899
+O5330,C0092,2026-06-22,Manual Coffee Grinder,Equipment,2,899
+O5331,C0022,2026-06-22,Paper Filters 100pk,Accessories,2,180
+O5332,C0079,2026-06-23,Manual Coffee Grinder,Equipment,2,899
+O5333,C0108,2026-06-18,Insulated Tumbler 500ml,Accessories,3,680
+O5334,C0021,2026-06-07,Barako Roast 500g,Coffee Beans,3,420
+O5335,C0021,2026-06-10,Manual Coffee Grinder,Equipment,1,899
+O5336,C0051,2026-06-06,Gooseneck Kettle 1L,Equipment,3,1250
+O5337,C0017,2026-06-21,Pour-Over Dripper V60,Equipment,3,425
+O5338,C0023,2026-06-17,Benguet Arabica Beans 250g,Coffee Beans,1,380
+O5339,C0035,2026-06-19,Paper Filters 100pk,Accessories,1,180
+O5340,C0050,2026-06-27,Digital Coffee Scale,Accessories,2,750
+O5341,C0002,2026-06-21,Barako Roast 500g,Coffee Beans,3,420
+O5342,C0038,2026-06-24,Digital Coffee Scale,Accessories,3,750
+O5343,C0033,2026-06-03,Insulated Tumbler 500ml,Accessories,3,680
+O5344,C0012,2026-06-14,Barako Roast 500g,Coffee Beans,2,420
+O5345,C0033,2026-06-13,Gooseneck Kettle 1L,Equipment,1,1250
+O5346,C0011,2026-06-13,Gooseneck Kettle 1L,Equipment,1,1250
+O5347,C0039,2026-06-17,Barako Roast 500g,Coffee Beans,3,420
+O5348,C0014,2026-06-25,Gooseneck Kettle 1L,Equipment,2,1250
+O5349,C0127,2026-06-12,Barako Roast 500g,Coffee Beans,1,420
+O5350,C0021,2026-06-14,Digital Coffee Scale,Accessories,2,750
+O5351,C0020,2026-06-15,Benguet Arabica Beans 250g,Coffee Beans,2,380
+O5352,C0014,2026-06-22,Digital Coffee Scale,Accessories,2,750
+O5353,C0002,2026-06-26,Pour-Over Dripper V60,Equipment,3,425
+O5354,C0004,2026-06-02,Insulated Tumbler 500ml,Accessories,3,680
+O5355,C0127,2026-06-13,Insulated Tumbler 500ml,Accessories,1,680
+O5356,C0150,2026-06-14,Insulated Tumbler 500ml,Accessories,2,680
+O5357,C0018,2026-06-03,Pour-Over Dripper V60,Equipment,3,425
+O5358,C0028,2026-06-22,Manual Coffee Grinder,Equipment,1,899
+O5359,C0025,2026-06-03,Gooseneck Kettle 1L,Equipment,3,1250
+O5360,C0127,2026-06-22,French Press 350ml,Equipment,3,549
+O5361,C0038,2026-06-11,Manual Coffee Grinder,Equipment,2,899
+O5362,C0105,2026-06-14,Barako Roast 500g,Coffee Beans,3,420
+O5363,C0013,2026-06-13,Pour-Over Dripper V60,Equipment,2,425
